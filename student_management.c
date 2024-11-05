@@ -3,6 +3,7 @@
 #include <conio.h>
 #include <windows.h>
 #define max 100
+
 int totalStudent = 0;
 // Structure to represent a student
 struct Student
